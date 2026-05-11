@@ -13,7 +13,6 @@
 
 | Secret 名称 | 必需 | 用途 |
 | --- | --- | --- |
-| `GHCR_TOKEN` | ✔ | 拉取镜像 token |
 | `XSERVER_EMAIL` | ✔ | 续期登录邮箱 |
 | `XSERVER_PASSWORD` | ✔ | 续期登录密码 |
 | `XSERVER_VPS_ID` | ✔ | VPS ID |
